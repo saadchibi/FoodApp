@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="search_hint">search restaurant</string>
+    <string name="search_title">search your restaurant</string>
+    <string name="afficher_itneraire">Afficher Iténeraire</string>
+    <string name="appeler_restaurant">Appeler Restaurant</string>
+    <string name="scanner_qr_code">Scanner QR Code</string>
+    <string name="afficher_menu">Afficher Menu</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
